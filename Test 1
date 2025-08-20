@@ -1,2 +1,8 @@
 This the demo file
 my name is Test1
+
+
+CMD of git to git hub connection
+C:\Users\Riyasha>git config --global user.name""
+
+C:\Users\Riyasha>git config --global user.email ""
